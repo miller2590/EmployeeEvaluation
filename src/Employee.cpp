@@ -40,8 +40,7 @@ int Employee::getSalary() const{
 }
 
 void Employee::printValues() const{
-    cout << "First Name: " << getFirstName() << "\n";
-    cout << "Last Name: " << getLastName() << "\n";
+    cout << "First Name: " << getFirstName() << " Last Name: " << getLastName() << "\n";
     cout << "Efficiency Rating: " << getEfficiencyRating() << "\n";
     cout << "Field: " << getField() << "\n";
     cout << "Salary: $" << getSalary() << "\n";

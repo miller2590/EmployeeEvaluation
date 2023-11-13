@@ -26,4 +26,5 @@ void Manager::printValues() const{
     Employee::printValues();
     cout << "Title: " << getTitle() << "\n";
     cout << "Department: " << getDepartment() << "\n";
+    cout << "\n";
 }
