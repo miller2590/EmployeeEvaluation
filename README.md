@@ -91,7 +91,7 @@ Salary: $85000
 Title: Manager
 Department: Finance
 ```
-###PayRoll Information (Shared Pointer):
+### PayRoll Information (Shared Pointer):
 ```plaintext
 Name: Claudia, Salary: 40000
 Name: Steve, Salary: 70000
